@@ -1,12 +1,11 @@
-# React + Vite
+# Shopper
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Shopper is a simple ecommerce cart build with reactJS, it uses [JSON server](https://github.com/typicode/json-server) as a dummy backend to persists product added to the cart
 
-Currently, two official plugins are available:
+## How to run the APP
+- clone repo and cd into shopping-cart directory
+- install dependencies with `npm install`
+- startup react server with `npm run dev`
+- startup json server with `npm run json-server`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1915" height="887" alt="image" src="https://github.com/user-attachments/assets/63a0fa0f-e896-49ee-b477-bdf2f8957245" />
