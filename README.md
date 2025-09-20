@@ -1,6 +1,6 @@
 # Shopper
 
-Shopper is a simple ecommerce cart build with reactJS, it uses [JSON server](https://github.com/typicode/json-server) as a dummy backend to persists product added to the cart
+Shopper is a simple ecommerce cart built with reactJS, it uses [JSON server](https://github.com/typicode/json-server) as a dummy backend to persists product added to the cart
 
 ## How to run the APP
 - clone repo and cd into shopping-cart directory
